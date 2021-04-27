@@ -9,3 +9,13 @@ Thoughts: Good start today. Hoping this challenge will help me get into the habi
 Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
 
 ----------------------------------------------------
+
+Day 2: 27 April 2021
+
+Today's progress: Snakes game - Working on render method that takes different object types. Derived classes are getting inflated with members they don't need. Re-reading inheritance/virtual functions in https://www.learncpp.com/ to see if there's a better way to do this. 
+
+Thoughts: Hoping taking a step back will help me work it out.
+
+Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
+
+----------------------------------------------------
