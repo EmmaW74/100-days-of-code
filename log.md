@@ -19,3 +19,13 @@ Thoughts: Hoping taking a step back will help me work it out.
 Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
 
 ----------------------------------------------------
+
+Day 3: 28 April 2021
+
+Today's progress: Still reading through inheritance/virtual functions and testing in a basic program. Haven't found a suitable solution yet so I might be approaching this the wrong way. 
+
+Thoughts: Not much progress today but will keep at it until things click into place :-)
+
+Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
+
+-----------------------------------------------------
