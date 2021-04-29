@@ -29,3 +29,11 @@ Thoughts: Not much progress today but will keep at it until things click into pl
 Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
 
 -----------------------------------------------------
+
+Day 4: 29 April 2021
+
+Today's progress: After reaching out to a colleague and getting some useful feedback I'm going to change my approach and add render_element() to the object classes instead of the myWindow class.
+
+Thoughts: Hopefully back on track :-) 
+
+-----------------------------------------------------
