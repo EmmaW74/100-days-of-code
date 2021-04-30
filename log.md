@@ -36,6 +36,8 @@ Today's progress: After reaching out to a colleague and getting some useful feed
 
 Thoughts: Hopefully back on track :-) 
 
+Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
+
 -----------------------------------------------------
 
 Day 5: 30 April 2021
@@ -43,5 +45,7 @@ Day 5: 30 April 2021
 Today's progress: Good progress on restructuring the classes to add text/image/block classes and adding the draw method. Also hopefully solved issue with iterating through the snake to draw each segment. Additional feedback from Jordan has also given me lots to look at to improve the game and some corrections to make. 
 
 Thoughts: A good day and looking forward to having extra time to spend over the bank holiday :-)
+
+Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
 
 -----------------------------------------------------
