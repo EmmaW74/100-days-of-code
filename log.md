@@ -49,3 +49,31 @@ Thoughts: A good day and looking forward to having extra time to spend over the 
 Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
 
 -----------------------------------------------------
+
+Day 6: 1 May 2021
+
+Today's progress: Continuing to restructure the snakes game. Now have the linked list as a template so I can reuse it with the prizes list - kept as a vector for now as need to change to a double-lined list to be able to remove prizes as they're collected.
+
+Thoughts: Pleased with the new template :-)
+
+Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
+
+-----------------------------------------------------
+
+Day 7: 2 May 2021
+
+Today's progress: Slow progress today, compiler errors after each change slowed my down. On the plus side I'm getting better at understanding/troubleshooting the compiler errors. 
+
+Thoughts: Sometimes it helps to take a break if you can't work something out :-)
+
+Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
+
+-----------------------------------------------------
+
+Day 8: 3 May
+
+Today's progress: Getting there. Snake and prizes are rendering on screen using the new draw_element(). Check collision methods not currently working.
+
+Thoughts: May have been easier to restart from beginning but I think doing it this way is helping me understand it more. Especially inheritance.
+
+--------------------------------------------------------
