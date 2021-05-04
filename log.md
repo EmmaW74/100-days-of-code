@@ -70,10 +70,18 @@ Link to work: https://github.com/EmmaW74/Snakes (render_class branch)
 
 -----------------------------------------------------
 
-Day 8: 3 May
+Day 8: 3 May 2021
 
 Today's progress: Getting there. Snake and prizes are rendering on screen using the new draw_element(). Check collision methods not currently working.
 
 Thoughts: May have been easier to restart from beginning but I think doing it this way is helping me understand it more. Especially inheritance.
 
 --------------------------------------------------------
+
+Day 9: 4 May 2021
+
+Today's progress: Created method in RenderableText class to draw text. Need to test it using score object.
+
+Thoughts: Next I need to take a step back and look at the logic of the game vs the feedback I have.
+
+---------------------------------------------------------
