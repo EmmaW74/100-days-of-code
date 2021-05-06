@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 11: 6 May 2021
+
+Today's progress: Managed to sort the Pause logic so it's not being checked as often. Also tidied the event handling so the switch statement only changes direction and all the change logic is now in change_direction().
+
+Thoughts: Going well. Need to revisit use of Gets vs direct access as not consistent. Change all to Gets?
+
+---------------------------------------------------------
+
 Day 10: 5 May 2021
 
 Today's progress: Created score controller object and tested it. Score now shows and updates on banner. Started simplifying myApp but struggling a bit with the pause option.
