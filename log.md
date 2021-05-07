@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 12: 7 May 2021
+
+Today's progress: Removing some old code from Window class. Looking at changing single linked list to double but struggling to get it to work at all in a separate project. Will try again tomorrow.
+
+Thoughts: Struggling to get my head around working with linked lists.
+
+--------------------------------------------------------
+
 Day 11: 6 May 2021
 
 Today's progress: Managed to sort the Pause logic so it's not being checked as often. Also tidied the event handling so the switch statement only changes direction and all the change logic is now in change_direction().
