@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 13: 8 May 2021
+
+Today's progress: Still looking at changing single linked list to double. Made some progress on it but issues with prev pointer.
+
+Thoughts: Going back to basics a bit with pointers should help.
+
+-------------------------------------------------------
+
 Day 12: 7 May 2021
 
 Today's progress: Removing some old code from Window class. Looking at changing single linked list to double but struggling to get it to work at all in a separate project. Will try again tomorrow.
