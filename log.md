@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 14: 9 May 2021
+
+Today's progress: Finished changing single linked list to double. Added to main code and tested snae still works. Now changing prize pot to use linked list instead of vector.
+
+Thoughts: Pleased with today's progress.
+
+-------------------------------------------------------
+
 Day 13: 8 May 2021
 
 Today's progress: Still looking at changing single linked list to double. Made some progress on it but issues with prev pointer.
