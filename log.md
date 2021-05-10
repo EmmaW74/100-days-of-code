@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 15: 10 May 2021
+
+Today's progress: Worked on changing prize pot to use linked list instead of vector but now have a bug in the prize collection area. Only works if you collect prizes in the order they appeared!
+
+Thoughts: Using vector initially wasn't the best move. Should have used the linked list straight away. Better planning would have helped.
+
+-------------------------------------------------------
+
 Day 14: 9 May 2021
 
 Today's progress: Finished changing single linked list to double. Added to main code and tested snae still works. Now changing prize pot to use linked list instead of vector.
