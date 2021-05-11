@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 16: 10 May 2021
+
+Today's progress: After 2 hours of troubleshooting I've fixed the collect prizes bug. Need to tidy up some commented out code but I'll do that tomorrow.
+
+Thoughts: Glad I fixed the bug.
+
+-------------------------------------------------------
+
 Day 15: 10 May 2021
 
 Today's progress: Worked on changing prize pot to use linked list instead of vector but now have a bug in the prize collection area. Only works if you collect prizes in the order they appeared!
