@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
-Day 16: 10 May 2021
+Day 17: 12 May 2021
+
+Today's progress: Busy day today so just tidied code a bit, getting rid of old commented out code and checking for memory leaks.
+
+Thoughts: Next steps are to make the collision detection more accurate and review how fixed values are handled (screen width, dot size etc).
+
+-------------------------------------------------------
+Day 16: 11 May 2021
 
 Today's progress: After 2 hours of troubleshooting I've fixed the collect prizes bug. Need to tidy up some commented out code but I'll do that tomorrow.
 
