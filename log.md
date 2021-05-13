@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 18: 13 May 2021
+
+Today's progress: Not much progress today, created new class to hold dimensions such as screen size, dot size etc and started to replace fixed values with variables from the new class.
+
+Thoughts: Need to spend more time on this over the weekend.
+
+-------------------------------------------------------
+
 Day 17: 12 May 2021
 
 Today's progress: Busy day today so just tidied code a bit, getting rid of old commented out code and checking for memory leaks.
