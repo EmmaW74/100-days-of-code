@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+Day 19: 14 May 2021
+
+Today's progress: Further work on dimensions class, also added default snake length and speed. Next need to look at how I can get my linked list to work with an iterator.
+
+Thoughts: Getting there, a lot of the feedback is now actioned. Still need to tidy up Game over graphics and add option for border collision.
+
+Link to work: https://github.com/EmmaW74/Snakes/tree/improve_accuracy
+
+------------------------------------------------------
+
 Day 18: 13 May 2021
 
 Today's progress: Not much progress today, created new class to hold dimensions such as screen size, dot size etc and started to replace fixed values with variables from the new class.
