@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 20: 15 May 2021
+
+Today's progress: Only 1 hour today. Looking into creating an iterator for the linked list. Struggling with getting the begin function to work.
+
+Thoughts: Not really understanding the custom iterator yet. Need to do more research.
+
+-----------------------------------------------------
+
 Day 19: 14 May 2021
 
 Today's progress: Further work on dimensions class, also added default snake length and speed. Next need to look at how I can get my linked list to work with an iterator.
