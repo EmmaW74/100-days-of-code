@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 21: 16 May 2021
+
+Today's progress: More reading about custom iterators. Starting to understand it a bit more but still can't get begin and end functions to work. 
+
+Thoughts: Feel like I'm getting there, just need to learn about it a bit more in-depth.
+
+-----------------------------------------------------
+
 Day 20: 15 May 2021
 
 Today's progress: Only 1 hour today. Looking into creating an iterator for the linked list. Struggling with getting the begin function to work.
