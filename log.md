@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+Day 23: 18 May 2021
+
+Today's progress: Admitted defeat and asked for help. Looks like it was the range based for loop was looking to the shared pointer rather than the container. Making progress now - just have an exception error to sort.
+
+Thoughts: Need to improve my knowledge of pointers, references and shared pointers.
+
+----------------------------------------------------
+
+Day 22: 17 May 2021
+
+Today's progress: Still can't see why the iterator isn't working. Think I'm going to have to ask for help tomorrow. 
+
+Thoughts: Feels like I know how it should be working but can't see where it's going wrong.
+
+-----------------------------------------------------
+
 Day 21: 16 May 2021
 
 Today's progress: More reading about custom iterators. Starting to understand it a bit more but still can't get begin and end functions to work. 
