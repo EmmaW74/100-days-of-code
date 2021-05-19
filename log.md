@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 24: 19 May 2021
+
+Today's progress: Really pleased my iterator now works in my test project. Now just need to get it to work in the snakes game. Feel like I've learned something this week but definitely need to review the pointer/reference part of the C++ course.
+
+Thoughts: Need to improve my knowledge of pointers, references and shared pointers.
+
+----------------------------------------------------
+
 Day 23: 18 May 2021
 
 Today's progress: Admitted defeat and asked for help. Looks like it was the range based for loop was looking to the shared pointer rather than the container. Making progress now - just have an exception error to sort.
