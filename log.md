@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-Day 25: 20 May 2021
+Day 26: 21 May 2021
 
-Today's progress: Merged new iterator into snakes game and added range based for loops.
+Today's progress: Started on adding new option to snakes game to choose if snake crashes on edge of screen or wraps around - updated the functions, next need to add the option to the welcome screen.
 
-Thoughts: Pleased I've got that to work. Next add border collision option and make game over graphics better.
+Thoughts: Getting there :-)
 
 ----------------------------------------------------
 
