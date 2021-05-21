@@ -8,6 +8,14 @@ Thoughts: Getting there :-)
 
 ----------------------------------------------------
 
+Day 25: 20 May 2021
+
+Today's progress: After a few issues the iterator is working in the snakes game :-)
+
+Thoughts: Pleased I worked out why the iterator was stopping (due to removing element then trying to iterate further).
+
+----------------------------------------------------
+
 Day 24: 19 May 2021
 
 Today's progress: Really pleased my iterator now works in my test project. Now just need to get it to work in the snakes game. Feel like I've learned something this week but definitely need to review the pointer/reference part of the C++ course.
