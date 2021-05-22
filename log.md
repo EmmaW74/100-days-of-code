@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 27: 22 May 2021
+
+Today's progress: Created intro page controller to manage the user options. Got text to show on screen but need to look at better font (bold etc)
+
+Thoughts: Good progress today.
+
+----------------------------------------------------
+
 Day 26: 21 May 2021
 
 Today's progress: Started on adding new option to snakes game to choose if snake crashes on edge of screen or wraps around - updated the functions, next need to add the option to the welcome screen.
