@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 28: 23 May 2021
+
+Today's progress: Sorted text on Welcome screen and finished border collision option so you can press B on the welcome screen to choose.
+
+Thoughts: Pleased with Welcome screen. Next need to look at check to stop prize appearing on top of snake.
+
+----------------------------------------------------
+
 Day 27: 22 May 2021
 
 Today's progress: Created intro page controller to manage the user options. Got text to show on screen but need to look at better font (bold etc)
