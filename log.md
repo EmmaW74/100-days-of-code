@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 29: 24 May 2021
+
+Today's progress: Good progress today. Finished extra checks to snakes game so prizes don't appear on top of the snake (did a bit of this yesterday after I'd logged my progress) and started on improving the Game Over window.
+
+Thoughts: Starting to think about what to try next when snakes is finished. Bought a reduced course on Udemy that covers some things I haven't really looked at yet.
+
+----------------------------------------------------
+
 Day 28: 23 May 2021
 
 Today's progress: Sorted text on Welcome screen and finished border collision option so you can press B on the welcome screen to choose. Learned you need to check for key down in addition to which key otherwise you get multiple instances of the key press.
