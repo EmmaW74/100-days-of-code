@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 30: 25 May 2021
+
+Today's progress: Working on game over window - replacing image with SDL text. Managed to get Game Over text to appear on screen gradually using source and destination rectangles.
+
+Thoughts; Pleased with progress. Probably need a game_over class to handle graphics. Also maybe expand score class to retain and update high scores.
+
+----------------------------------------------------
+
 Day 29: 24 May 2021
 
 Today's progress: Good progress today. Finished extra checks to snakes game so prizes don't appear on top of the snake (did a bit of this yesterday after I'd logged my progress) and started on improving the Game Over window.
