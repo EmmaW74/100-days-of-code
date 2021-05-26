@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+Day 31: 26 May 2021
+
+Today's progress: Not much progress today. Started looking at using SDL_TEXTINPUT for user to enter their name if they get a high score. Issues with making score controller draw function work with more than one text field.
+
+Thoughts: Issue something to do with passing string as a parameter to the function.
+
+-----------------------------------------------------
+
 Day 30: 25 May 2021
 
 Today's progress: Working on game over window - replacing image with SDL text. Managed to get Game Over text to appear on screen gradually using source and destination rectangles.
 
-Thoughts; Pleased with progress. Probably need a game_over class to handle graphics. Also maybe expand score class to retain and update high scores.
+Thoughts: Pleased with progress. Probably need a game_over class to handle graphics. Also maybe expand score class to retain and update high scores.
 
 ----------------------------------------------------
 
