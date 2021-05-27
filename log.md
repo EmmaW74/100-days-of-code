@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 32: 27 May 2021
+
+Today's progress: Continued working on using SDL_TEXTINPUT for user to enter their name if they get a high score. Sorted issue with cstr() - problem due to scope of string.
+
+Thoughts: Initially started this in score controller but think a separate class might be better to co-ordinate the whole game over section.
+
+-----------------------------------------------------
+
 Day 31: 26 May 2021
 
 Today's progress: Not much progress today. Started looking at using SDL_TEXTINPUT for user to enter their name if they get a high score. Issues with making score controller draw function work with more than one text field.
