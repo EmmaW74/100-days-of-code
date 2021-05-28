@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 33: 28 May 2021
+
+Today's progress: Started a class to control the game over part of the program.
+
+Thoughts: Feels like a class will make it easier to manage the game over.
+
+-----------------------------------------------------
+
 Day 32: 27 May 2021
 
 Today's progress: Continued working on using SDL_TEXTINPUT for user to enter their name if they get a high score. Sorted issue with cstr() - problem due to scope of string.
