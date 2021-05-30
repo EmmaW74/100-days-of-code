@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+Day 35: 30 May 2021
+
+Today's progress: Part 1 (30 mins) Cleared compile errors so now have Game Over text appearing via the new class and using font and colours from Dimensions class.
+
+Part 2: 
+
+Thoughts: Feels like code will be tidier once I've done game over and moved things like fonts and colours into measurements (Dimensions) object. 
+
+---------------------------------------------------------------
+
+Day 34: 29 May 2021
+
+Today's progress: Working on game over - moving method across to new class and fixing compile errors.
+
+Thoughts: Busy day today so pleased I still fitted an hour in :-)
+
+-----------------------------------------------------
+
 Day 33: 28 May 2021
 
 Today's progress: Started a class to control the game over part of the program.
