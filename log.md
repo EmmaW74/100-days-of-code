@@ -2,7 +2,7 @@
 
 Day 35: 30 May 2021
 
-Today's progress: Part 1 (30 mins) Cleared compile errors so now have Game Over text appearing via the new class and using font and colours from Dimensions class.
+Today's progress: Only 30 mins today - Cleared compile errors so now have Game Over text appearing via the new class and using font and colours from Dimensions class.
 
 Part 2: 
 
