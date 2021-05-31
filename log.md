@@ -1,10 +1,16 @@
 # 100 Days Of Code - Log
 
+Day 36: 31 May 2021
+
+Today's progress: Worked on Game Over class but passing a lot of parameters about when could probably add pointers the the class via the constructor. Fresh look tomorrow.
+
+Thoughts: Felt a bit harder today - probably because I'm tired. 
+
+---------------------------------------------------------------
+
 Day 35: 30 May 2021
 
 Today's progress: Only 30 mins today - Cleared compile errors so now have Game Over text appearing via the new class and using font and colours from Dimensions class.
-
-Part 2: 
 
 Thoughts: Feels like code will be tidier once I've done game over and moved things like fonts and colours into measurements (Dimensions) object. 
 
