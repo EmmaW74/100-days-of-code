@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 37: 1 June 2021
+
+Today's progress: Reviewed Game Over class, added pointer members for key information and removed most parameters for the game over functions. Now working on the functions to get the score to show and the user name entry.
+
+Thoughts: Getting there slowly.
+
+---------------------------------------------------------------
+
 Day 36: 31 May 2021
 
 Today's progress: Worked on Game Over class but passing a lot of parameters about when could probably add pointers the the class via the constructor. Fresh look tomorrow.
