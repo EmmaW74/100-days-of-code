@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 38: 2 June 2021
+
+Today's progress: Not much progress today. Also new bug in name entry function I need to sort.
+
+Thoughts: Not very focused today.
+
+---------------------------------------------------------------
+
 Day 37: 1 June 2021
 
 Today's progress: Reviewed Game Over class, added pointer members for key information and removed most parameters for the game over functions. Now working on the functions to get the score to show and the user name entry.
