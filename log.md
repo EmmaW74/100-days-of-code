@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 39: 3 June 2021
+
+Today's progress: Better progress today. Worked on entering name if you get in the top 5 and adding it to the high score list. Sorted bug on character deletion but there's a flickering I need to look at and user name letters look slightly see through (a possible setting I've missed?). 
+
+Thoughts: Once functionality for high score is sorted, I need to revisit how the game over window renders to avoid the flickering.
+
+---------------------------------------------------------------
+
 Day 38: 2 June 2021
 
 Today's progress: Not much progress today. Also new bug in name entry function I need to sort.
