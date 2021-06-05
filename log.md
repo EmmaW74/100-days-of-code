@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 40: 5 June 2021
+
+Today's progress: Missed a day yesterday. Today worked on the the methods to get each line on the game over window printed. Struggling to sort a simple way to do this.
+
+Thoughts: Feels like there should be an easy way to sort the game over text. Just haven't found it yet.
+
+---------------------------------------------------------------
+
 Day 39: 3 June 2021
 
 Today's progress: Better progress today. Worked on entering name if you get in the top 5 and adding it to the high score list. Sorted bug on character deletion but there's a flickering I need to look at and user name letters look slightly see through (a possible setting I've missed?). 
