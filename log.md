@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+Day 41: 6 June 2021
+
+Today's progress: Great progress today, game over text sorted with simplified functions and code merged to main. Next need to sort writing high score to file and adding an option to play again.
+
+Thoughts: Really pleased with how today has gone.
+
+https://github.com/EmmaW74/Snakes
+
+---------------------------------------------------------------
+
 Day 40: 5 June 2021
 
 Today's progress: Missed a day yesterday. Today worked on the the methods to get each line on the game over window printed. Struggling to sort a simple way to do this.
