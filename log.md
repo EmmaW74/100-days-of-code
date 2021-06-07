@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+Day 42: 7 June 2021
+
+Today's progress: Another good day today, added functions to read and write high scores list to a text file. 
+
+Thoughts: Just need to add play again option then review to add comments and check font consistent.
+
+https://github.com/EmmaW74/Snakes
+
+---------------------------------------------------------------
+
 Day 41: 6 June 2021
 
 Today's progress: Great progress today, game over text sorted with simplified functions and code merged to main. Next need to sort writing high score to file and adding an option to play again.
