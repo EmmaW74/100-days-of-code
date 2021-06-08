@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+Day 43: 8 June 2021
+
+Today's progress: Just tinkering today, tidied font setting and started on play again function. 
+
+Thoughts: Almost ready to send for feedback. Also starting to think what could be next.
+
+https://github.com/EmmaW74/Snakes
+
+---------------------------------------------------------------
+
 Day 42: 7 June 2021
 
 Today's progress: Another good day today, added functions to read and write high scores list to a text file. 
