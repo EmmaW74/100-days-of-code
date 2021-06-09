@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-Day 44: 8 June 2021
+Day 44: 9 June 2021
 
 Today's progress: Working on play again function but more to it than I first thought.
 
