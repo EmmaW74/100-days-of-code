@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 44: 8 June 2021
+
+Today's progress: Working on play again function but more to it than I first thought.
+
+Thoughts: Didn't think about evrything that needed reset. Maybe take a step back tomorrow.
+
+---------------------------------------------------------------
+
 Day 43: 8 June 2021
 
 Today's progress: Just tinkering today, tidied font setting and started on play again function. 
