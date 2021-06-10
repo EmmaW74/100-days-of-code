@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-Day 45: 9 June 2021
+Day 45: 10 June 2021
 
 Today's progress: Good day today, play again function done. Just one bug to fix highest score doesn't record correctly.
 
