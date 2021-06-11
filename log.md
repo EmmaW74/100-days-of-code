@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 46: 11 June 2021
+
+Today's progress: Big fixed, just tidying up then ready to share for feedback.
+
+Thoughts: What next? Another game or budget program? Will also look at c# course. Also what about frameworks?
+
+---------------------------------------------------------------
+
 Day 45: 10 June 2021
 
 Today's progress: Good day today, play again function done. Just one bug to fix highest score doesn't record correctly.
