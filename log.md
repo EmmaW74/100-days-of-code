@@ -1,8 +1,32 @@
 # 100 Days Of Code - Log
 
+Day 49: 14 June 2021
+
+Today's progress: Tried setting up the IntroController to use measurements object but not working. Discarded changes and will try again tomorrow.
+
+Thoughts: Need a new focus so I'm not just tweaking things. Will sort IntroController then start something new.
+
+---------------------------------------------------------------
+
+Day 48: 13 June 2021
+
+Today's progress: Not much time today. Added comments to some of the class methods in my snakes game so I don't forget what they do
+
+Thoughts: For next project I need to add comments and keep the code tidy as I go.
+
+---------------------------------------------------------------
+
+Day 47: 12 June 2021
+
+Today's progress: Only an hour today. Spent time looking at constant member instantiation in a class. 
+
+Thoughts: Will check best practice for constant members - should I be setting them up in the header file or using {} in the constructor in cpp file.
+
+---------------------------------------------------------------
+
 Day 46: 11 June 2021
 
-Today's progress: Big fixed, just tidying up then ready to share for feedback.
+Today's progress: Bug fixed, just tidying up then ready to share for feedback.
 
 Thoughts: What next? Another game or budget program? Will also look at c# course. Also what about frameworks?
 
