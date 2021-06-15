@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 50: 15 June 2021
+
+Today's progress: Issue with introController was due to using make shared with new. Now fixed.
+
+Thoughts: Still lots to learn :-)
+
+---------------------------------------------------------------
+
 Day 49: 14 June 2021
 
 Today's progress: Tried setting up the IntroController to use measurements object but not working. Discarded changes and will try again tomorrow.
