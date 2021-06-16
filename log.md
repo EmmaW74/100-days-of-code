@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 51: 16 June 2021
+
+Today's progress: No new project yet so did some coding on Leet code.
+
+Thoughts: Will start budget program next.
+
+---------------------------------------------------------------
+
 Day 50: 15 June 2021
 
 Today's progress: Issue with introController was due to using make shared with new. Now fixed.
