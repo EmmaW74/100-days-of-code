@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 52: 17 June 2021
+
+Today's progress: Started planning next project - decided to do slider game.
+
+Thoughts: Will work on slider game while I work through the Udemy courses I still have to do.
+
+---------------------------------------------------------------
+
 Day 51: 16 June 2021
 
 Today's progress: No new project yet so did some coding on Leet code.
