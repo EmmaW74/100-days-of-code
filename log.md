@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 53: 18 June 2021
+
+Today's progress: Started slider game, setting up library / dependencies settings and started creating main classes.
+
+Thoughts: Not much done today as a bit tired.
+
+---------------------------------------------------------------
+
 Day 52: 17 June 2021
 
 Today's progress: Started planning next project - decided to do slider game.
