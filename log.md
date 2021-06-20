@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 54: 20 June 2021
+
+Today's progress: Missed a day yesterday as too busy. Today worked on main classes for slider game - defaults and game window. Nothing to see yet. 
+
+Thoughts: Need to make time to do next Udemy courses as well - maybe decide what days to do what tasks.
+
+---------------------------------------------------------------
+
 Day 53: 18 June 2021
 
 Today's progress: Started slider game, setting up library / dependencies settings and started creating main classes.
