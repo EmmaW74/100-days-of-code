@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 55: 21 June 2021
+
+Today's progress: Not much progress today, worked on classes again but now have linker error. 
+
+Thoughts: Need to re-read notes on adding libraries
+
+---------------------------------------------------------------
+
 Day 54: 20 June 2021
 
 Today's progress: Missed a day yesterday as too busy. Today worked on main classes for slider game - defaults and game window. Nothing to see yet. 
