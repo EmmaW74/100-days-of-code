@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+Day 57: 23 June 2021
+
+Today's progress: Started on classes for puzzle tiles. Need to decide on best container to use.
+
+Thoughts: Don't complicate things - puzzle will update tile objects rather than move them within the container.
+
+---------------------------------------------------------------
+
+Day 56: 22 June 2021
+
+Today's progress: Fixed linker error and image now showing on screen. 
+
+Thoughts: Next need to sort tile management.
+
+---------------------------------------------------------------
+
 Day 55: 21 June 2021
 
 Today's progress: Not much progress today, worked on classes again but now have linker error. 
