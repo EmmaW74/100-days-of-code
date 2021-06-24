@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 58: 24 June 2021
+
+Today's progress: Decided on deque, now working on algorithm to build the tiles and fill the deque
+
+Thoughts: This game will involve more calculations than the snakes game
+
+---------------------------------------------------------------
+
 Day 57: 23 June 2021
 
 Today's progress: Started on classes for puzzle tiles. Need to decide on best container to use.
