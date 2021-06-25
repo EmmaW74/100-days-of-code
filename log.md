@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 59: 25 June 2021
+
+Today's progress: Still working on creating tiles to fill the deque - not very productive today.
+
+Thoughts: Need to take a step back and plan flow better.
+
+---------------------------------------------------------------
+
 Day 58: 24 June 2021
 
 Today's progress: Decided on deque, now working on algorithm to build the tiles and fill the deque
