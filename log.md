@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 60: 26 June 2021
+
+Today's progress: No coding today but did some planning on how the tile manager should work.
+
+Thoughts: A bit more complicated than I thought!.
+
+---------------------------------------------------------------
+
 Day 59: 25 June 2021
 
 Today's progress: Still working on creating tiles to fill the deque - not very productive today.
