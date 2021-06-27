@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 61: 27 June 2021
+
+Today's progress: A bit of coding on the tile manager class.
+
+Thoughts: Still struggling :-(
+
+---------------------------------------------------------------
+
 Day 60: 26 June 2021
 
 Today's progress: No coding today but did some planning on how the tile manager should work.
