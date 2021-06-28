@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 62: 28 June 2021
+
+Today's progress: Better progress today. Tiles now rendered to screen and shuffled.
+
+Thoughts: Pleased with progress today.
+
+---------------------------------------------------------------
+
 Day 61: 27 June 2021
 
 Today's progress: A bit of coding on the tile manager class.
