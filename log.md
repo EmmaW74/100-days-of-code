@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 63: 29 June 2021
+
+Today's progress: Started on event handling. Funtcion to move tiles - not quite right yet.
+
+Thoughts: Pleased with progress today.
+
+---------------------------------------------------------------
+
 Day 62: 28 June 2021
 
 Today's progress: Better progress today. Tiles now rendered to screen and shuffled.
