@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 64: 30 June 2021
+
+Today's progress: Struggling with move tile function today.
+Thoughts: :-( 
+
+---------------------------------------------------------------
+
 Day 63: 29 June 2021
 
 Today's progress: Started on event handling. Funtcion to move tiles - not quite right yet.
