@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Days 65 - 68: 1 - 4 July 2021
+
+Today's progress: Finally got the move tile function working after lots of troubleshooting. Also created a check solved function.
+Thoughts: Pleased to get the move tiles working but it took longer than it should have.
+
+---------------------------------------------------------------
+
 Day 64: 30 June 2021
 
 Today's progress: Struggling with move tile function today.
