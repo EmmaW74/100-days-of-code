@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Days 69: 5 July 2021
+
+Today's progress: Testing check solved function.
+Thoughts: Next step is intro.
+
+---------------------------------------------------------------
+
 Days 65 - 68: 1 - 4 July 2021
 
 Today's progress: Finally got the move tile function working after lots of troubleshooting. Also created a check solved function.
