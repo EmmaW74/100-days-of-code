@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Days 70: 6 July 2021
+
+Today's progress: Made a start on intro class to display into and manage choosing a picture to play.
+Thoughts: Once basic game done, look at how to make the tiles slider rather than jump.
+
+---------------------------------------------------------------
+
 Days 69: 5 July 2021
 
 Today's progress: Testing check solved function.
