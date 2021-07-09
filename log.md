@@ -1,13 +1,20 @@
 # 100 Days Of Code - Log
 
-Days 70: 6 July 2021
+Day 71: 9 July 2021
 
-Today's progress: Made a start on intro class to display into and manage choosing a picture to play.
-Thoughts: Once basic game done, look at how to make the tiles slider rather than jump.
+Today's progress:  2 days missed but back on track now. Working on intro class. Now has exception error.
+Thoughts: Need to start looking at courses again as well as coding on the game.
 
 ---------------------------------------------------------------
 
-Days 69: 5 July 2021
+Day 70: 6 July 2021
+
+Today's progress: Made a start on intro class to display intro and manage choosing a picture to play.
+Thoughts: Once basic game done, look at how to make the tiles slide rather than jump.
+
+---------------------------------------------------------------
+
+Day 69: 5 July 2021
 
 Today's progress: Testing check solved function.
 Thoughts: Next step is intro.
