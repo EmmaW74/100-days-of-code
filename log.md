@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 72: 10 July 2021
+
+Today's progress:  More work on intro class.
+Thoughts: Feel like I'm getting better at understanding compile errors and exception errors :-)
+
+---------------------------------------------------------------
+
 Day 71: 9 July 2021
 
 Today's progress:  2 days missed but back on track now. Working on intro class. Now has exception error.
