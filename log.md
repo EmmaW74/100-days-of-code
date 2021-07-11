@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 73: 11 July 2021
+
+Today's progress:  Totally unfocussed today, just faffed on with intro class but nothing to show for it.
+Thoughts: Need to decide what I'm doing and focus on making it work.
+
+---------------------------------------------------------------
+
 Day 72: 10 July 2021
 
 Today's progress:  More work on intro class.
