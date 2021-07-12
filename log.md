@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 74: 12 July 2021
+
+Today's progress:  Better progress today. Text rendered on start screen.
+Thoughts: Possible issue at startup - delay on opening start screen with hourglass.
+
+---------------------------------------------------------------
+
 Day 73: 11 July 2021
 
 Today's progress:  Totally unfocussed today, just faffed on with intro class but nothing to show for it.
