@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 75: 13 July 2021
+
+Today's progress:  Sorted bug with no response on opening window although still get hourglass. Made good progress on into animation but not quite there yet..
+Thoughts: Good day today.
+
+---------------------------------------------------------------
+
 Day 74: 12 July 2021
 
 Today's progress:  Better progress today. Text rendered on start screen.
