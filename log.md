@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 76: 14 July 2021
+
+Today's progress:  Intro screen text sorted. Started planning pick picture window.
+Thoughts: Looks like SDL has no features to help create an open file window. Will need to research this more.
+
+---------------------------------------------------------------
+
 Day 75: 13 July 2021
 
 Today's progress:  Sorted bug with no response on opening window although still get hourglass. Made good progress on into animation but not quite there yet..
