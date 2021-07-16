@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 77 & 78: 14 & 15 July 2021
+
+Today's progress:  Working on page to show choice of pictures to use for the puzzle. Getting an error on my iterator.
+Thoughts: Using 2 for loops but not sure that's the best way to do it.
+
+---------------------------------------------------------------
+
 Day 76: 14 July 2021
 
 Today's progress:  Intro screen text sorted. Started planning pick picture window.
