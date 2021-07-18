@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
-Day 77 & 78: 14 & 15 July 2021
+Day 79: 18 July 2021
+
+Today's progress:  Missed a day yesterday. Good day today, picture choice now diplayed on screen. Now working on event handling to change picture selection.
+Thoughts: Ditched iterator and changed how get picture works. This will work better for passing the chosen picture to the game controller.
+
+---------------------------------------------------------------
+
+Day 77 & 78: 15 & 16 July 2021
 
 Today's progress:  Working on page to show choice of pictures to use for the puzzle. Getting an error on my iterator.
 Thoughts: Using 2 for loops but not sure that's the best way to do it.
