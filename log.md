@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 80: 19 July 2021
+
+Today's progress: Still working on event handling to change picture selection.
+Thoughts: Maybe need to step back and review code so far as I'm losing track of what does what!
+
+---------------------------------------------------------------
+
 Day 79: 18 July 2021
 
 Today's progress:  Missed a day yesterday. Good day today, picture choice now diplayed on screen. Now working on event handling to change picture selection.
