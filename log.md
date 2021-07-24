@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+Day 83: 24 July 2021
+
+Today's progress: Breakthrough, picture selection screen finally works :-) Bug around quit event not working on first 2 screens - sort that next.
+Thoughts: As I thought, spending more time to get my head around the issue helped.
+
+--------------------------------------------------------------
+
+Day 82: 22 July 2021
+
+Today's progress: Still working on picture choice - can't get my head around calculation needed to draw several rectangles to make a thick picture outline.
+Thoughts: For the trickier parts an hour at a time isn't long enough. Need to try and make a bit more time each day.
+
+---------------------------------------------------------------
+
+Day 81: 21 July 2021
+
+Today's progress: Missed yesterday but managed an hour today. Still working on picture choice on picture puzzle game.
+Thoughts: Getting a bit frustrated as struggling with the picture selection method. Not helped when I keep changing my mind about how it should work. Lesson learned - I should plan more.
+
+---------------------------------------------------------------
+
 Day 80: 19 July 2021
 
 Today's progress: Still working on event handling to change picture selection.
