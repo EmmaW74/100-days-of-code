@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 84: 25 July 2021
+
+Today's progress: Good progress, sorted bug on quit handling. Now working on game over class and 'Are you sure?' option when you quit game.
+Thoughts: Good day today. Need to look into better graphics library for next project though.
+
+--------------------------------------------------------------
+
 Day 83: 24 July 2021
 
 Today's progress: Breakthrough, picture selection screen finally works :-) Bug around quit event not working on first 2 screens - sort that next.
