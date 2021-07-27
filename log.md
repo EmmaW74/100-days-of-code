@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+Day 86: 27 July 2021
+
+Today's progress: Worked on handling when puzzle solved.
+Thoughts: Slight bug to sort when closing Congratulations screen using X
+
+--------------------------------------------------------------
+
+Day 85: 26 July 2021
+
+Today's progress: Still working on picture slider game. Finished adding 'Are you sure?' option when you quit the game
+Thoughts: Good progress.
+
+--------------------------------------------------------------
+
 Day 84: 25 July 2021
 
 Today's progress: Good progress, sorted bug on quit handling. Now working on game over class and 'Are you sure?' option when you quit game.
