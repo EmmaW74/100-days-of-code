@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 87: 28 July 2021
+
+Today's progress: Basic puzzle completed except for bug on Congratulations screen X. However, code not as simple as I think it could be. Need to look at combining all event handlers into one method which should also sort the bug hopefully.
+Thoughts: Glad the puzzle is playable but think the code is messier than it should be.
+
+--------------------------------------------------------------
+
 Day 86: 27 July 2021
 
 Today's progress: Worked on handling when puzzle solved.
