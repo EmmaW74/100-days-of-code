@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 88: 29 July 2021
+
+Today's progress: Spent time trying to redo bits of my code to simplify the text rendering but then discarded the changes. Re-doing the code can be harder than writing it in the first place!
+Thoughts: Need to spend more time on this.
+
+--------------------------------------------------------------
+
 Day 87: 28 July 2021
 
 Today's progress: Basic puzzle completed except for bug on Congratulations screen X. However, code not as simple as I think it could be. Need to look at combining all event handlers into one method which should also sort the bug hopefully.
