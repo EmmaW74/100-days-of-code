@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 89: 30 July 2021
+
+Today's progress: Better progress today. New class for text objects to make rendering simpler.
+Thoughts: Also need to look at multithreads and multiple windows.
+
+--------------------------------------------------------------
+
 Day 88: 29 July 2021
 
 Today's progress: Spent time trying to redo bits of my code to simplify the text rendering but then discarded the changes. Re-doing the code can be harder than writing it in the first place!
