@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 90: 31 July 2021
+
+Today's progress: Good day today. Finished renderable text class and replaced code in Intro and GameOver to use the new RenderableText methods.
+Thoughts: Next need to do same for renderable pics.
+
+--------------------------------------------------------------
+
 Day 89: 30 July 2021
 
 Today's progress: Better progress today. New class for text objects to make rendering simpler.
