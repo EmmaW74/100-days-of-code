@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 91: 1 August 2021
+
+Today's progress: Frustrating day, trying to improve picture rendering but discarded most code :-(
+Thoughts: Need to sort the display and choose pics on intro.
+
+--------------------------------------------------------------
+
 Day 90: 31 July 2021
 
 Today's progress: Good day today. Finished renderable text class and replaced code in Intro and GameOver to use the new RenderableText methods.
