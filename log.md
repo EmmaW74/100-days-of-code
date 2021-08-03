@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+Day 93: 3 August 2021
+
+Today's progress: Took a break from coding today. Changed one of the pictures in my puzzle, linked in with mentor and applied for licence for learning tool at work.
+Thoughts: Need to start looking at C#
+
+--------------------------------------------------------------
+
+Day 92: 2 August 2021
+
+Today's progress: Not much done today but added a reference picture to make the game easier.
+Thoughts: Still need to sort a picture class and tidy create rect method (currently duplicated)
+
+--------------------------------------------------------------
+
 Day 91: 1 August 2021
 
 Today's progress: Frustrating day, trying to improve picture rendering but discarded most code :-(
