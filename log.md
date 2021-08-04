@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 94: 4 August 2021
+
+Today's progress: Hit a problem with the picture puzzle - arrangements are impossible to solve. Added recursion check but still not working :-(
+Thoughts: May need to change how the shuffle works.
+
+--------------------------------------------------------------
+
 Day 93: 3 August 2021
 
 Today's progress: Took a break from coding today. Changed one of the pictures in my puzzle, linked in with mentor and applied for licence for learning tool at work.
