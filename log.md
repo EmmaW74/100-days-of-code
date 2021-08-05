@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 95: 5 August 2021
+
+Today's progress: Looked again at recursion check and fixed it. Puzzle now works for odd x odd combinations. Next step to sort for evens.
+Thoughts: Could do with a flashing border just before congrats appears.
+
+--------------------------------------------------------------
+
 Day 94: 4 August 2021
 
 Today's progress: Hit a problem with the picture puzzle - arrangements are impossible to solve. Added recursion check but still not working :-(
