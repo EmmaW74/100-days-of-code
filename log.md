@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+Day 97: 7 August 2021
+
+Today's progress: Completed solvability checker for both odd and even grids and did some testing.
+Thoughts: Need to spend a bit more time tomorrow to try and finish bits and pieces off.
+
+--------------------------------------------------------------
+
+Day 96: 6 August 2021
+
+Today's progress: Working on adding evens to solvable checker. Also tweaked congratulations text but still needs new font colour.
+Thoughts: Getting there.
+
+--------------------------------------------------------------
+
+Day 96: 6 August 2021
+
+Today's progress: Working on adding evens to solvable checker.
+Thoughts: 
+
+--------------------------------------------------------------
+
 Day 95: 5 August 2021
 
 Today's progress: Looked again at recursion check and fixed it. Puzzle now works for odd x odd combinations. Next step to sort for evens.
