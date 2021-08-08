@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 97: 8 August 2021
+
+Today's progress: Found a bug - 3x3 grid sometimes not solvable.
+Thoughts: Need to do some testing and capture the initial list to look at if not solvable.
+
+--------------------------------------------------------------
+
 Day 97: 7 August 2021
 
 Today's progress: Completed solvability checker for both odd and even grids and did some testing.
