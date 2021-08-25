@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+Days 99 to 100:
+
+Progress: Fixed algorithm for checking solvability. Tidying bits and pieces e.g. checking naming formats and const
+
+---------------------------------------------------------------
 Day 98: 8 August 2021
 
 Today's progress: Found a bug - 3x3 grid sometimes not solvable.
