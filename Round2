@@ -2,6 +2,19 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues 
 
+Day 12: 5 September 2021
+
+Today's progress: C# crash course completed, looked at auto properties, get, set and enum. 
+
+Thoughts: Course didn't cover exception/error handling or GUI so need to look into those. Will start on my C# Tic Tac Toe game first for a bit of C# practice.
+
+--------------------------------------------------------------------------
+Day 11: 4 September 2021
+
+Today's progress: Looking at C# StringBuilder and classes today. Also looked at Class Diagram in Visual Studio.
+
+--------------------------------------------------------------------------
+
 Day 10: 3 September 2021
 
 Today's progress: C# crash course, continued looking at strings. Also read about the static keyword in C++
