@@ -2,6 +2,13 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 17: 13 September 2021
+
+Today's progress: Weekend away so no coding for a few days. Back on it today, got my auto properties to work with grid array and looked at string formatting for displaying the grid in the console.
+
+Thoughts: Auto property seemed to work OK today so not sure what the issue was before!
+---------------------------------------------------
+
 Day 16: 9 September 2021
 
 Today's progress: Still struggling to get auto properties to work with grid array. Will look at that tutorial again.
