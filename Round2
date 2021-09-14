@@ -2,6 +2,13 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 18: 14 September 2021
+
+Today's progress: Finished string formatting for drawing grid. Moved onto getting move from user but need to learn more about getting user input.
+
+Thoughts: Look at user input in more detail.
+---------------------------------------------------
+
 Day 17: 13 September 2021
 
 Today's progress: Weekend away so no coding for a few days. Back on it today, got my auto properties to work with grid array and looked at string formatting for displaying the grid in the console.
