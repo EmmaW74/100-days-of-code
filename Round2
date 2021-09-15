@@ -2,6 +2,13 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 19: 15 September 2021
+
+Today's progress: Working on method to get user grid choice and pass return it to grid manager class.
+
+Thoughts: Look at user input in more detail.
+---------------------------------------------------
+
 Day 18: 14 September 2021
 
 Today's progress: Finished string formatting for drawing grid. Moved onto getting move from user but need to learn more about getting user input.
