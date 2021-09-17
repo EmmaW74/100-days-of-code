@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 20: 17 September 2021
+
+Today's progress:  Missed a day yesterday. Today watched C# big picture tutorial and worked on user choice validation in my game. Trying Array.Exists method but it's not working so far.
+
+Thoughts: Not sure why not working - possibly due to types being used?
+
+---------------------------------------------------
+
 Day 19: 15 September 2021
 
 Today's progress: Working on method to get user grid choice and pass return it to grid manager class.
