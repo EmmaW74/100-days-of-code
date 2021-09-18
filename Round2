@@ -2,6 +2,13 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 20: 18 September 2021
+
+Today's progress:  Today watched C# getting started tutorial and continued with method for choosing a grid cell. Array.Exists is working now - my ascii codes were wrong :-)
+
+
+---------------------------------------------------
+
 Day 20: 17 September 2021
 
 Today's progress:  Missed a day yesterday. Today watched C# big picture tutorial and worked on user choice validation in my game. Trying Array.Exists method but it's not working so far.
