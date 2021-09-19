@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 22: 19 September 2021
+
+Today's progress: Great day today, finished C# getting started tutorial and sorted methods for both user and computer to take their turn. Now need to do CHeckForWin method.
+
+Thoughts: Game progress going well.
+
+---------------------------------------------------
+
 Day 21: 18 September 2021
 
 Today's progress:  Today watched C# getting started tutorial and continued with method for choosing a grid cell. Array.Exists is working now - my ascii codes were wrong :-)
