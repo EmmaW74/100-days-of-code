@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 23: 20 September 2021
+
+Today's progress: Not much progress on check for win method, may need to rethink grid container.
+
+Thoughts: Need to do a bit more investigation of best method.
+
+---------------------------------------------------
+
 Day 22: 19 September 2021
 
 Today's progress: Great day today, finished C# getting started tutorial and sorted methods for both user and computer to take their turn. Now need to do CHeckForWin method.
