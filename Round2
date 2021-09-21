@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 24: 21 September 2021
+
+Today's progress: Not much coding today. Looking into best way to get an efficient check for win without using for loops. 
+
+Thoughts: LINQ may be a possibility but need to learn more.
+
+---------------------------------------------------
+
 Day 23: 20 September 2021
 
 Today's progress: Not much progress on check for win method, may need to rethink grid container.
