@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 25: 22 September 2021
+
+Today's progress: Trying various ways to extract rows and columns from my 2d array but deleted my code. On the plus side I understand reference types and value types a bit better.
+
+Thoughts: I did have some LINQ methods working, looks like I'll need to go back to them. Bools and arrays are value types so I can't have checking arrays which reflect the changes constantly.
+
+---------------------------------------------------
+
 Day 24: 21 September 2021
 
 Today's progress: Not much coding today. Looking into best way to get an efficient check for win without using for loops. 
