@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 26: 23 September 2021
+
+Today's progress: Good day today, managed to get my linq method working to extract the grid columns. Ones for diagonal lines not working so need to troubleshoot that.
+
+Thoughts: Will look at course around linq after I've done the data types course.
+
+---------------------------------------------------
+
 Day 25: 22 September 2021
 
 Today's progress: Trying various ways to extract rows and columns from my 2d array but deleted my code. On the plus side I understand reference types and value types a bit better.
