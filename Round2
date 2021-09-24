@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 27: 24 September 2021
+
+Today's progress: Not much coding today. Watched tutorial on C# predefined data types and tried using at Array.TrueForAll but haven't got it to work yet.
+
+Thoughts: Getting there but very slowly :-)
+
+---------------------------------------------------
+
 Day 26: 23 September 2021
 
 Today's progress: Good day today, managed to get my linq method working to extract the grid columns. Ones for diagonal lines not working so need to troubleshoot that.
