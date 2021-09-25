@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 28: 25 September 2021
+
+Today's progress: Finally got game won method working. Not the most efficient check so may need to revisit but I'll finish the game first.
+
+Thoughts: Feels like there should be a better container type or method of checking for game won which avoids checking everything each time.
+
+---------------------------------------------------
+
 Day 27: 24 September 2021
 
 Today's progress: Not much coding today. Watched tutorial on C# predefined data types and tried using at Array.TrueForAll but haven't got it to work yet.
