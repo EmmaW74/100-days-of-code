@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 29: 26 September 2021
+
+Today's progress: Watched tutorial on C# strings. Also started looking at how the screen refreshes - Console.Clear() causes flickering so looking at using Console.SetCursorPosition() to just update parts of the screen.
+
+Thoughts: Look at how the C++ game is formatted tomorrow.
+
+---------------------------------------------------
+
 Day 28: 25 September 2021
 
 Today's progress: Finally got game won method working. Not the most efficient check so may need to revisit but I'll finish the game first.
