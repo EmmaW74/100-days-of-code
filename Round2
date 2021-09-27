@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 30: 27 September 2021
+
+Today's progress: No coding today but did a little bit of reading about unit tests.
+
+Thoughts: Need to learn about unit tests. Also C# reflection and Attributes.
+
+---------------------------------------------------
+
 Day 29: 26 September 2021
 
 Today's progress: Watched tutorial on C# strings. Also started looking at how the screen refreshes - Console.Clear() causes flickering so looking at using Console.SetCursorPosition() to just update parts of the screen.
