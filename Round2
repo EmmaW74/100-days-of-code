@@ -2,9 +2,17 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 32: 29 September 2021
+
+Today's progress: Looked at my ClearLine method again today and got it working. 
+
+Thoughts: Still need to reword some of the text.
+
+---------------------------------------------------
+
 Day 31: 28 September 2021
 
-Today's progress: NOt much time again today. Looked at my ClearLine method - not clearing the right lines.
+Today's progress: Not much time again today. Looked at my ClearLine method - not clearing the right lines.
 
 Thoughts: Need to step through to see exactly what's happening.
 
