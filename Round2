@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 33: 30 September 2021
+
+Today's progress: Bits and pieces. Sorted text wording. Amended 2d array so the size can be changed. Just realised I need to check for a draw. 
+
+Thoughts: Once draw check done, look at choosing grid size.
+
+---------------------------------------------------
+
 Day 32: 29 September 2021
 
 Today's progress: Looked at my ClearLine method again today and got it working. 
