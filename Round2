@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 1: 9 October 2021
+
+Today's progress: Missed a week as just had no time. Started again from day 1. Continued with C# types tutorial on PluralSight. Also retook the test and increased my competency score to intermediate :-) 
+
+Thoughts: Tutorial showed handy tip on how to view .NET library containers. Need to look into this a bit more. May be a better container to use for TTT game.
+
+---------------------------------------------------
+
 Day 33: 30 September 2021
 
 Today's progress: Bits and pieces. Sorted text wording. Amended 2d array so the size can be changed. Just realised I need to check for a draw. 
