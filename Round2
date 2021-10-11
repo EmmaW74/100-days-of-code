@@ -2,6 +2,18 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 3: 11 October 2021
+
+Today's progress: Draw check is now in my game. Looked at adding a heading to the board using Console.WriteLine
+
+---------------------------------------------------
+
+Day 2: 10 October 2021
+
+Today's progress: Continued with C# types tutorial on PluralSight. Looking at classes, constructors and properties.
+
+---------------------------------------------------
+
 Day 1: 9 October 2021
 
 Today's progress: Missed a week as just had no time. Started again from day 1. Continued with C# types tutorial on PluralSight. Also retook the test and increased my competency score to intermediate :-) 
