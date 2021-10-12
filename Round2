@@ -2,6 +2,13 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 4: 12 October 2021
+
+Today's progress: Spent a couple of hours on CodeWars today for a change and completed 2 Katas in C# Learned about Array.Copy.
+Thoughts: Found it useful, will try going on there once a week.
+
+---------------------------------------------------
+
 Day 3: 11 October 2021
 
 Today's progress: Draw check is now in my game. Looked at adding a heading to the board using Console.WriteLine
