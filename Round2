@@ -2,6 +2,13 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 5: 13 October 2021
+
+Today's progress: Looked at C# predicate delegates but struggling to get my head around how to use them with Array.Find method to compare 2 arrays for CodeWars Kata. 
+Thoughts: Will try again tomorrow - need to get my head around this as I've seen a few methods that use Predicates.
+
+---------------------------------------------------
+
 Day 4: 12 October 2021
 
 Today's progress: Spent a couple of hours on CodeWars today for a change and completed 2 Katas in C# Learned about Array.Copy.
