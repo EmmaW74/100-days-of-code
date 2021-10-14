@@ -2,6 +2,14 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 6: 14 October 2021
+
+Today's progress: Looked again at C# delegates and predicates delegates. Got one to work with Array.Exists method to compare 2 arrays, but need some more practice to 
+properly get my head around it. Also need to look at lambda expreassion tutorial.  
+Thoughts: Pleased I got it to work :-)
+
+---------------------------------------------------
+
 Day 5: 13 October 2021
 
 Today's progress: Looked at C# predicate delegates but struggling to get my head around how to use them with Array.Find method to compare 2 arrays for CodeWars Kata. 
