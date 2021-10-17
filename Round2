@@ -2,10 +2,17 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 7 - 9: 15 - 17 October 2021
+
+Today's progress: Been on Codewars the last few days, playing with C# Array methods. Also found Lambda / Delegates tutorial to look at.
+Thoughts: Forgot how useful Codewars is for practice.
+
+---------------------------------------------------
+
 Day 6: 14 October 2021
 
 Today's progress: Looked again at C# delegates and predicates delegates. Got one to work with Array.Exists method to compare 2 arrays, but need some more practice to 
-properly get my head around it. Also need to look at lambda expreassion tutorial.  
+properly get my head around it. Also need to look at lambda expression tutorial.  
 Thoughts: Pleased I got it to work :-)
 
 ---------------------------------------------------
