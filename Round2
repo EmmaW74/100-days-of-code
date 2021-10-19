@@ -2,6 +2,11 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 11: Spent time on C# TicTacToe game sorting header above grid. Took longer than it should have really.
+Thoughts: Need to look at adding a GUI.
+
+--------------------------------------------------
+
 Day 10: Not much time today but spent some time on Codewars again. Solved the Break camelCase kata in C# using String.Insert. 
 Thoughts: Need to refocus - seem to be drifting a bit.
 
