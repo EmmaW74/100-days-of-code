@@ -2,6 +2,11 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 12: Started looking at WPF GUI on https://wpf-tutorial.com/ Also spent a bit of time on Codewars
+Thoughts: WPF tutorial not very clear yet but will keep going.
+
+--------------------------------------------------
+
 Day 11: Spent time on C# TicTacToe game sorting header above grid. Took longer than it should have really.
 Thoughts: Need to look at adding a GUI.
 
