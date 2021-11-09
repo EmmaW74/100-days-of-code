@@ -2,6 +2,11 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 27 to 29 - 7 to 9 November: Still struggling with event handler not updating window until method ends. Suggestion from Twitter looks promising - look at that tomorrow. Also did a bit of CodeWars for C++
+
+
+--------------------------------------------------
+
 Day 26 - 6 November: Continued working on WPF version of TicTacToe. Struggling with program flow - wondering if I need to use asynchronous code. Need to read more.
 
 Thoughts: Also need to continue with udemy course on WPF
