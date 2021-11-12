@@ -2,8 +2,13 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
-Day 27 to 29 - 7 to 9 November: Still struggling with event handler not updating window until method ends. Suggestion from Twitter looks promising - look at that tomorrow. Also did a bit of CodeWars for C++
+Day 30 to 32 - 7 to 9 November: Still working on updating UI. Issue was due to single thread, method running meant UI not updating until method done. 
+Seem to have resolved this by running a new thread and using Dispatcher to update the UI thread. Understand the theory but don't understand the syntax completely.
+Thoughts: Still need to look at lambdas (will continue with lunchtime Delegates and lamdas tutorial. Also need to look more into multi-threading in c# and c++
 
+--------------------------------------------------
+
+Day 27 to 29 - 7 to 9 November: Still struggling with event handler not updating window until method ends. Suggestion from Twitter looks promising - look at that tomorrow. Also did a bit of CodeWars for C++
 
 --------------------------------------------------
 
