@@ -2,7 +2,35 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
-Day 34: Took a break from my TicTacToe game to continue with my C# tutorial. Looked at static, inheritance, interfaces and garbage collection.
+Day 41 - 26 Nov:  Missed a couple of days but back on it today with C# program flow totorial. Refresher on if/else, switch and loops plus ternary operator.
+
+Day 40 - Spent a little time on Codewars and finished Tortoise racing
+
+---------------------------------------------------
+
+Day 39 - Took a break from WPF today and spent time on Codewars. Completed Tribonacci Sequence with C++ and started on Tortoise racing but my solution isn't quite working yet.
+
+---------------------------------------------------
+
+Day 38 - Continuing with WPF tutorial today. Looking at creating a new window and linking a class to an SQLite database.
+
+---------------------------------------------------
+
+Day 37 - Continued with WPF tutorial today. Learned about creating and applying styles to window elements
+
+---------------------------------------------------
+
+Day 36 - Not much progress today. Found another bug and also had issues trying to iterate through buttons in the xaml window.
+Think I'll continue with the WPF tutorial to learn about data binding then revisit after that.
+
+---------------------------------------------------
+
+Day 35 - Back on my TicTacToe game today. I seem to have fixed the bug from the other day, although to be honest I'm not quite sure how. 
+Also made some changes to make the game stop running once there's a win or draw. 
+
+---------------------------------------------------
+
+Day 34 - 14 Nov: Took a break from my TicTacToe game to continue with my C# tutorial. Looked at static, inheritance, interfaces and garbage collection.
 Thoughts: Maybe need to spend time on the tutorials on weekends and do my game when I have less time during the week.
 
 -------------------------------------------------
