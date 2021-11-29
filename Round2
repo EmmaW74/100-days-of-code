@@ -2,7 +2,19 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 44 - 29 Nov: Spent an afternoon continuing with WPF tutorial. Learned about displaying database items in a ListView and started to look at data binding.
+
+---------------------------------------------------
+
+Day 42 & 43 - 27 & 28 Nov: Spent hours trying and failing to find a loop free solution to Codewars kata - Financing Plan on Planet XY140Z-n. Other solutions 
+have just 1 line of code using a formula.
+Thoughts: Maybe need to look into best methods to calculate things like sequence formula.
+
+---------------------------------------------------
+
 Day 41 - 26 Nov:  Missed a couple of days but back on it today with C# program flow totorial. Refresher on if/else, switch and loops plus ternary operator.
+
+---------------------------------------------------
 
 Day 40 - Spent a little time on Codewars and finished Tortoise racing
 
