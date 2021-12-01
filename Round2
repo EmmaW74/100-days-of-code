@@ -2,6 +2,10 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
 
+Day 45 & 46 - 30 Nov & 1 Dec: Spent time practising using ListView to update and display objects in a database. Learned how to set up event handler for double-clicking a list item.
+
+--------------------------------------------------
+
 Day 44 - 29 Nov: Spent an afternoon continuing with WPF tutorial. Learned about displaying database items in a ListView and started to look at data binding.
 
 ---------------------------------------------------
