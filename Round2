@@ -1,6 +1,17 @@
 #100DaysOfCode #Round2
 
-Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues
+Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues. Plus learn WPF.
+
+
+------------------------------------------------------
+
+Day 39: Good day today. Working on feedback I was given on my C# version of TicTacToe. Learned about RelayCommand and used it to replace my separate Command classes to cut out duplicate code.
+Thoughts: I've been drifting along a bit lately without a definite learning plan. Drafted a bit of a plan to make better use of my time and to keep up C++ as starting to feel like I'm fogetting it.
+
+***UPDATE*** - Missed quite a few days off in December in the run up to Xmas so started Round 2 again around Xmas but forgot to update this document.
+Will start updating from today (day 39).
+
+---------------------------------------------------------------------------
 
 Day 49 - 4 Dec: Continued with WPF tutorial - looking at custom user controls.
 
