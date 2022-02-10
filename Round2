@@ -2,6 +2,9 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues. Plus learn WPF.
 
+Day 40: R2D40: WPF today - managed to display on screen and write back to elements in my ObservableCollection.
+Also started learning about the Combobox to create a drop-down menu for the message type.
+Thoughts: Still getting used to the WPF elements - it's quite hard to get things to show where you want them.
 
 ------------------------------------------------------
 
