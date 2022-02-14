@@ -2,6 +2,12 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues. Plus learn WPF.
 
+Day 42-44: Struggling to get the XAML part working in my HTML builder project. Looks like I need a TreeView but need to learn more about them as I can't see how you get different 
+values to show for different levels.
+Thoughts: Not easy to find good documentation on the XAML elements :-(
+
+------------------------------------------------------
+
 Day 41: R2D41: No coding today but finished watching the tutorial on Delegates, Event Handlers and Lambdas - included async delegates and threads.
 Thoughts: Was interesting. Definitely feel like I understand more about delegates and events (although probably couldn't just work with them without using my notes / Google yet).
 
