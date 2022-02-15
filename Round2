@@ -2,6 +2,10 @@
 
 Aim: Get familiar with C# basics, recreate C++ app in C#, fix C++ slider puzzle issues. Plus learn WPF.
 
+Day 45: Haven't looked at C++ for a while so spent some time today looking at std library containers and the differences between vectors, arrays and lists.
+
+------------------------------------------------------
+
 Day 42-44: Struggling to get the XAML part working in my HTML builder project. Looks like I need a TreeView but need to learn more about them as I can't see how you get different 
 values to show for different levels.
 Thoughts: Not easy to find good documentation on the XAML elements :-(
